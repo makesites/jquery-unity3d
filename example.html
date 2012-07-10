@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+	<head>
+	<title>Unity Web Player</title>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="unity3d.js"></script>
+        <script>
+        $(function(){ 
+			$("#unityPlayer").unity3d({
+				file : "https://dl.dropbox.com/u/7831025/2012-06-13/WebPlayer.unity3d"
+			}); 
+		});
+        </script>
+		
+	</head>
+	<body>
+		
+			<div id="unityPlayer">
+				<div class="missing">
+					<a href="http://unity3d.com/webplayer/" title="Unity Web Player. Install now!">
+						<img alt="Unity Web Player. Install now!" src="http://webplayer.unity3d.com/installation/getunity.png" width="193" height="63" />
+					</a>
+				</div>
+			</div>
+            
+	</body>
+</html>
