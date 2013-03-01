@@ -1,0 +1,37 @@
+{
+	"name": "unity3d",
+	"version": "0.2.0",
+    "title": "jQuery Unity3D",
+    "description": "One-liner to embed / interact with Unity3D files using jQuery",
+    "keywords": [
+        "unity3d",
+        "3d",
+		"graphics",
+		"games",
+		"visuals"
+    ],
+    "author": {
+        "name": "Makesites",
+        "url": "http://makesites.org"
+    },
+    "maintainers": [
+        {
+            "name": "Makis Tracend",
+            "email": "makis@makesit.es",
+            "url": "http://github.com/tracend"
+        }
+    ],
+    "bugs": "https://github.com/makesites/jquery-unity3d/issues",
+    "homepage": "https://github.com/makesites/jquery-unity3d",
+    "docs": "https://github.com/makesites/jquery-unity3d",
+    "download": "http://plugins.jquery.com/unity3d",
+    "licenses": [
+		{
+		"type": "MIT License",
+		"url": "http://makesites.org/licenses/MIT"
+		}
+	], 
+	"dependencies": {
+	  "jquery": "~1.8.2"
+	}
+}
