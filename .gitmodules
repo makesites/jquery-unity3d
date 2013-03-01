@@ -1,6 +1,0 @@
-[submodule "jquery.contenteditable"]
-	path = jquery.contenteditable
-	url = git://gist.github.com/3410122.git
-[submodule "jquery.unity3d"]
-	path = jquery.unity3d
-	url = git://gist.github.com/3082093.git
